@@ -1,7 +1,20 @@
-# thinkmail-privacy
+<!--
+**thinkmailapp/thinkmailapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
 <div align="center">
-  <img src="icon.png" alt="ThinkMail" width="72" height="72">
+
 
   <h1>ThinkMail</h1>
 
@@ -21,7 +34,7 @@
 
 A college student. Too many emails. Not enough time — or patience — to reply to all of them well.
 
-The usual routine was opening ChatGPT in one tab, copying the email thread into it, writing a prompt, getting a generic reply that sounded nothing like her, and then editing it anyway. Every single time. For every single email.
+The usual routine was opening AI Tools in multiple tab, copying the email thread into it, writing a prompt, getting a generic reply that sounded nothing like her, and then editing it anyway. Every single time. For every single email.
 
 She wasn't looking for a grammar checker. She wasn't looking for a tool that would make her sound more "professional" in the abstract. She wanted something that actually **read the situation** — who this person was, what had been said before, what the tone of the conversation was — and helped her respond in a way that made sense for that specific moment.
 
@@ -80,7 +93,9 @@ Your emails are your business — not ours.
 
 > ThinkMail is currently in private beta. Chrome Web Store listing coming soon.
 
-To get early access, reach out at **thinkmail.app@gmail.com**
+To get early access, reach out at [thinkmail.app@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=thinkmail.app@gmail.com&su=ThinkMail%20Early%20Access)
+
+
 
 ---
 
